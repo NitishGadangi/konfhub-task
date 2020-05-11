@@ -57,6 +57,6 @@ python task.py
 
 
 
-
+![Output](https://github.com/NitishGadangi/konfhub-task/blob/master/output.png?raw=true)
 
 **by Nitish  Gadangi visit https://nitishgadangi.github.io/ to know more about me**
